@@ -86,7 +86,7 @@ public class Order {
 
   //==비즈니스 로직==//
 
-  /**
+  /** 
    * 주문 취소
    **/
   public void cancel() {
